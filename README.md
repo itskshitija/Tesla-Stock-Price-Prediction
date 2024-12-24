@@ -25,3 +25,13 @@ To analyze the Tesla stock price dataset by conducting thorough Exploratory Data
 - ARIMA (autoregressive integrated moving average)
 - SARIMA (Seasonal Autoregressive Integrated Moving Average)
 
+# **Author Information**
+
+#### 👤Kshitija Chilbule
+
+### Contact Information:
+- 📞 <b>Phone:</b> 7620424864
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Portfolio:</b> https://itskshitija.github.io/My-Portfolio/
