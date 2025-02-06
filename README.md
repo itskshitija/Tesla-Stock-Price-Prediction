@@ -33,56 +33,27 @@ We leverage the following time-series forecasting models:
 <b>SARIMA:</b> Seasonal Autoregressive Integrated Moving Average
 
 ## 📊Visuals
-![image](https://github.com/user-attachments/assets/dbe36f39-be81-4f55-ac16-f072f8355e0e)
+![image](https://github.com/user-attachments/assets/1b007f0e-eceb-4d0d-b39c-b0dde04f50a1)
 
+![image](https://github.com/user-attachments/assets/2452511d-2ae8-4dd8-aabf-aa4d995f65fb)
 
-![image](https://github.com/user-attachments/assets/da7da241-25d1-4ca3-914f-ffcd36c212c3)
+![image](https://github.com/user-attachments/assets/91bf0772-c29d-405a-912c-f70f5eabbddd)
 
+![image](https://github.com/user-attachments/assets/54c438f7-9c69-4f34-a1a5-a75248325636)
 
-![image](https://github.com/user-attachments/assets/9b0a733d-c042-411c-95da-abd252385417)
+![image](https://github.com/user-attachments/assets/924b31cf-3df8-4a6a-8f40-549115cc83fe)
 
+![image](https://github.com/user-attachments/assets/a581fa52-09b8-405f-bf88-c3ff99a38d7f)
 
+![image](https://github.com/user-attachments/assets/c1032922-5b4e-4fe5-86a0-63267bbab7e0)
 
-![image](https://github.com/user-attachments/assets/ff43b3b4-50ed-40a9-80d6-60478aa5d553)
+![image](https://github.com/user-attachments/assets/21cf5f87-2f35-4dd7-8bec-3edc4f9a318a)
 
+![image](https://github.com/user-attachments/assets/4c563197-2936-4e87-b94a-e92057c4ec79)
 
+![image](https://github.com/user-attachments/assets/3def734c-e3ec-4050-9f42-3e6b1930b262)
 
-![image](https://github.com/user-attachments/assets/57fe2bae-6748-414e-8377-6a39bd2be3e9)
-
-
-
-![image](https://github.com/user-attachments/assets/31cac2bf-abec-47ea-97ee-ec7bb0ebafc9)
-
-
-
-![image](https://github.com/user-attachments/assets/7624f942-3bea-43fd-9959-be603453cc22)
-
-
-
-![image](https://github.com/user-attachments/assets/61414ef6-c2a6-43a2-8447-69e53c0c6561)
-
-
-
-![image](https://github.com/user-attachments/assets/7566ac07-187f-4445-848c-40046f57fa16)
-
-
-
-![image](https://github.com/user-attachments/assets/e79a2274-dc66-4081-b640-b9a0056b90e0)
-
-
-
-![image](https://github.com/user-attachments/assets/e29f0b60-2a1a-4cdf-a524-ebdb905c5f0b)
-
-
-
-![image](https://github.com/user-attachments/assets/c1947ab8-df94-46ca-803a-1f2d50f6d250)
-
-
-
-![image](https://github.com/user-attachments/assets/d688a9df-450e-4d35-a395-44b78a477548)
-
-
-
+![image](https://github.com/user-attachments/assets/dfe9900e-8171-4dc9-9655-26656d054a5d)
 
 ## 📌Conclusion
 The project demonstrates how time-series models like ARIMA and SARIMA can effectively forecast stock price movements, providing essential insights for decision-making.
