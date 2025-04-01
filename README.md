@@ -48,7 +48,7 @@ We performed visualization-based testing and statistics-based testing to check w
 #### 2. Results of Augmented Dickey-Fuller (ADF) Test
 ![image](https://github.com/user-attachments/assets/addb58b6-c728-43ce-805f-9d53d9f6da8b)
 ![image](https://github.com/user-attachments/assets/f71c0b9b-f1e0-484c-83ff-db9117678237)
-- As we can see, the P value is less than 0.05
+- As we can see, the P value is greater than 0.05
 
 <b>Result: </b> The overall result of both tests suggests that this time series data is non-stationary, and hence we accept the null hypothesis
 
@@ -113,7 +113,7 @@ In this problem statement, we applied first-order differencing, meaning each val
 We ran an ADF test (Augmented Dickey-Fuller Test) after differencing. Below is a result
 ![image](https://github.com/user-attachments/assets/c35a109c-4747-40c5-90ac-64bdf22573a1)
 
-- P value is now greater than 0.05, hence we will reject the null hypothesis
+- P value is now less than 0.05, hence we will reject the null hypothesis
 - The mean and Standard deviation of the data are now constant
 - Now our time series data is stationary
 
