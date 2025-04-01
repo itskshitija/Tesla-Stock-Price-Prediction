@@ -17,6 +17,12 @@ Welcome to the <b>Tesla Stock Price Forecasting project</b>, where we delve into
 ## 🎯Objective
 This project aims to analyze the Tesla stock price dataset by performing detailed <b>Exploratory Data Analysis (EDA)</b> and developing robust forecasting models to predict future stock trends. This can provide valuable insights for investors and stakeholders.
 
+## 🔢Models Used
+We leverage the following time-series forecasting models:
+
+- <b>ARIMA:</b>  Autoregressive Integrated Moving Average
+- <b>SARIMA:</b> Seasonal Autoregressive Integrated Moving Average
+
 ## 🌟Project Flow
 ### 1. Data Ingestion
   
@@ -124,15 +130,15 @@ Now that we have got values of p,d, and q, we can apply the  ARIMA model to our 
 - d = 1
 - q = 1
 
+<b>Note:</b> In actual code, we have implied permutation combination to choose the best p,d,q values.
+
+![image](https://github.com/user-attachments/assets/298d26e3-3619-4b61-84ca-2dfa6c19e5af)
+
+![image](https://github.com/user-attachments/assets/94a5d2d7-cf58-432c-8248-5982d72f4f4b)
 
 
-### 5. Analysis
-
-## 🔢Models Used
-We leverage the following time-series forecasting models:
-
-- <b>ARIMA:</b>  Autoregressive Integrated Moving Average
-- <b>SARIMA:</b> Seasonal Autoregressive Integrated Moving Average
+#### 2. SARIMA (Seasonal AutoRegressive Integrated Moving Average)
+![image](https://github.com/user-attachments/assets/839dfabd-3a9e-43c0-9242-84652b0534e5)
 
 ## 📌Conclusion
 The project demonstrates how time-series models like ARIMA and SARIMA can effectively forecast stock price movements, providing essential insights for decision-making.
