@@ -26,8 +26,9 @@ This project aims to analyze the Tesla stock price dataset by performing detaile
 
 ## 🔢Models Used
 We leverage the following time-series forecasting models:
-<b>ARIMA:</b>  Autoregressive Integrated Moving Average
-<b>SARIMA:</b> Seasonal Autoregressive Integrated Moving Average
+
+- <b>ARIMA:</b>  Autoregressive Integrated Moving Average
+- <b>SARIMA:</b> Seasonal Autoregressive Integrated Moving Average
 
 ## 📌Conclusion
 The project demonstrates how time-series models like ARIMA and SARIMA can effectively forecast stock price movements, providing essential insights for decision-making.
