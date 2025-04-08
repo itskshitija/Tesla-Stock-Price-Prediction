@@ -50,7 +50,7 @@ We performed visualization-based testing and statistics-based testing to check w
 ![image](https://github.com/user-attachments/assets/f71c0b9b-f1e0-484c-83ff-db9117678237)
 - As we can see, the P value is greater than 0.05
 
-<b>Result: </b> The overall result of both tests suggests that this time series data is non-stationary, and hence we accept the null hypothesis
+<b>Result: </b> The overall result of both tests suggests that this time series data is non-stationary, and hence we fail to reject the null hypothesis
 
 #### Decomposition of Time Series
 
